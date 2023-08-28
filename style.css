@@ -1,1 +1,23 @@
+      body {
+            font-family: Arial, sans-serif;
+            background-color: #ffb200;
+            border-width: 1px;
+        }
 
+        h1 {
+            color: blue;
+        }
+
+        p {
+            color: red;
+        }
+
+        .highlight {
+            background-color: yellow;
+            /* Add a class named "highlight" with a background color */
+        }
+
+        #specialText {
+            color: green;
+            /* Add an ID named "specialText" with a unique font color */
+        }
